@@ -1,0 +1,13 @@
+2025-07-17 21:09:19,820 - INFO - CSV loaded successfully.
+2025-07-17 21:09:19,879 - INFO - Data cleaning completed.
+2025-07-17 21:21:00,943 - INFO - CSV loaded successfully.
+2025-07-17 21:21:00,987 - INFO - Data cleaning completed.
+2025-07-17 21:25:06,411 - INFO - CSV loaded successfully.
+2025-07-17 21:25:06,461 - INFO - Data cleaning completed.
+2025-07-17 21:25:06,591 - INFO - ETL process completed successfully.
+2025-07-17 21:25:17,324 - INFO - CSV loaded successfully.
+2025-07-17 21:25:17,383 - INFO - Data cleaning completed.
+2025-07-17 21:25:17,485 - INFO - ETL process completed successfully.
+2025-07-17 21:25:26,500 - INFO - CSV loaded successfully.
+2025-07-17 21:25:26,575 - INFO - Data cleaning completed.
+2025-07-17 21:25:26,657 - INFO - ETL process completed successfully.
