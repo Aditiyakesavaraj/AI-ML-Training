@@ -11,3 +11,6 @@
 2025-07-17 21:25:26,500 - INFO - CSV loaded successfully.
 2025-07-17 21:25:26,575 - INFO - Data cleaning completed.
 2025-07-17 21:25:26,657 - INFO - ETL process completed successfully.
+2025-07-18 09:06:50,750 - INFO - CSV loaded successfully.
+2025-07-18 09:06:50,813 - INFO - Data cleaning completed.
+2025-07-18 09:06:51,062 - INFO - ETL process completed successfully.
