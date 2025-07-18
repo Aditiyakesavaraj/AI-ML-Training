@@ -14,3 +14,24 @@
 2025-07-18 09:06:50,750 - INFO - CSV loaded successfully.
 2025-07-18 09:06:50,813 - INFO - Data cleaning completed.
 2025-07-18 09:06:51,062 - INFO - ETL process completed successfully.
+2025-07-18 14:42:26,519 - INFO - CSV loaded successfully.
+2025-07-18 14:42:26,657 - INFO - Data cleaning completed.
+2025-07-18 14:42:44,362 - INFO - CSV loaded successfully.
+2025-07-18 14:42:44,398 - INFO - Data cleaning completed.
+2025-07-18 14:42:44,544 - INFO - ETL process completed successfully.
+2025-07-18 14:43:54,402 - INFO - CSV loaded successfully.
+2025-07-18 14:43:54,407 - INFO - Data cleaning completed.
+2025-07-18 14:45:20,799 - INFO - CSV loaded successfully.
+2025-07-18 14:45:20,803 - INFO - Data cleaning completed.
+2025-07-18 14:46:29,817 - INFO - CSV loaded successfully.
+2025-07-18 14:46:29,823 - INFO - Data cleaning completed.
+2025-07-18 14:46:29,865 - INFO - ETL process completed successfully.
+2025-07-18 14:47:36,652 - INFO - CSV loaded successfully.
+2025-07-18 14:47:36,658 - INFO - Data cleaning completed.
+2025-07-18 14:47:36,698 - INFO - ETL process completed successfully.
+2025-07-18 14:48:20,853 - INFO - CSV loaded successfully.
+2025-07-18 14:48:20,859 - INFO - Data cleaning completed.
+2025-07-18 14:48:20,895 - INFO - ETL process completed successfully.
+2025-07-18 14:49:12,524 - INFO - CSV loaded successfully.
+2025-07-18 14:49:12,528 - INFO - Data cleaning completed.
+2025-07-18 14:49:12,583 - INFO - ETL process completed successfully.
