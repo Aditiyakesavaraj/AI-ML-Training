@@ -150,12 +150,11 @@ print("Current Working Directory:", os.getcwd())
 # In[11]:
 
 
+get_ipython().system('jupyter nbconvert --to script ETL Pipeline CSV to MySQL Data Ingestion.ipynb')
 
-import subprocess
-subprocess.run([
-    "jupyter", "nbconvert",
-    "--to", "script",
-    "ETL Pipeline CSV to MySQL Data Ingestion.ipynb"
-], check=True)
+
+# In[ ]:
+
+
 
 
