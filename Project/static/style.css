@@ -1,0 +1,54 @@
+/* Existing styles here... */
+
+/* Header with toggle */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#toggle-theme {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* 🌙 Dark Mode */
+body.dark-mode {
+  background: linear-gradient(120deg, #141e30, #243b55);
+  color: #f0f0f0;
+}
+
+body.dark-mode .chat-container {
+  background: #1e293b;
+  color: #f0f0f0;
+}
+
+body.dark-mode .chat-box {
+  background: #0f172a;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .user {
+  background: #3b82f6;
+  color: #fff;
+}
+
+body.dark-mode .bot {
+  background: #16a34a;
+  color: #fff;
+}
+
+body.dark-mode input {
+  background: #1e293b;
+  color: #fff;
+  border: 1px solid #475569;
+}
+
+body.dark-mode button {
+  background: #3b82f6;
+}
+body.dark-mode button:hover {
+  background: #2563eb;
+}
